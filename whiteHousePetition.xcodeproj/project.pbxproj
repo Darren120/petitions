@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		C4022F5E1F178EE400F95663 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
-		C4FBE5CD1F12FFBE0024424C /* white house petition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "white house petition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4FBE5CD1F12FFBE0024424C /* whiteHousePetition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whiteHousePetition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4FBE5D01F12FFBE0024424C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4FBE5D21F12FFBE0024424C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		C4FBE5D51F12FFBE0024424C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		C4FBE5C41F12FFBE0024424C = {
 			isa = PBXGroup;
 			children = (
-				C4FBE5CF1F12FFBE0024424C /* white house petition */,
+				C4FBE5CF1F12FFBE0024424C /* whiteHousePetition */,
 				C4FBE5CE1F12FFBE0024424C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		C4FBE5CE1F12FFBE0024424C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C4FBE5CD1F12FFBE0024424C /* white house petition.app */,
+				C4FBE5CD1F12FFBE0024424C /* whiteHousePetition.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C4FBE5CF1F12FFBE0024424C /* white house petition */ = {
+		C4FBE5CF1F12FFBE0024424C /* whiteHousePetition */ = {
 			isa = PBXGroup;
 			children = (
 				C4FBE5D01F12FFBE0024424C /* AppDelegate.swift */,
@@ -64,15 +64,16 @@
 				C4FBE5D91F12FFBE0024424C /* LaunchScreen.storyboard */,
 				C4FBE5DC1F12FFBE0024424C /* Info.plist */,
 			);
+			name = whiteHousePetition;
 			path = "white house petition";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C4FBE5CC1F12FFBE0024424C /* white house petition */ = {
+		C4FBE5CC1F12FFBE0024424C /* whiteHousePetition */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C4FBE5DF1F12FFBE0024424C /* Build configuration list for PBXNativeTarget "white house petition" */;
+			buildConfigurationList = C4FBE5DF1F12FFBE0024424C /* Build configuration list for PBXNativeTarget "whiteHousePetition" */;
 			buildPhases = (
 				C4FBE5C91F12FFBE0024424C /* Sources */,
 				C4FBE5CA1F12FFBE0024424C /* Frameworks */,
@@ -82,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = "white house petition";
+			name = whiteHousePetition;
 			productName = "white house petition";
-			productReference = C4FBE5CD1F12FFBE0024424C /* white house petition.app */;
+			productReference = C4FBE5CD1F12FFBE0024424C /* whiteHousePetition.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C4FBE5C81F12FFBE0024424C /* Build configuration list for PBXProject "white house petition" */;
+			buildConfigurationList = C4FBE5C81F12FFBE0024424C /* Build configuration list for PBXProject "whiteHousePetition" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -116,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C4FBE5CC1F12FFBE0024424C /* white house petition */,
+				C4FBE5CC1F12FFBE0024424C /* whiteHousePetition */,
 			);
 		};
 /* End PBXProject section */
@@ -287,7 +288,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C4FBE5C81F12FFBE0024424C /* Build configuration list for PBXProject "white house petition" */ = {
+		C4FBE5C81F12FFBE0024424C /* Build configuration list for PBXProject "whiteHousePetition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4FBE5DD1F12FFBE0024424C /* Debug */,
@@ -296,7 +297,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C4FBE5DF1F12FFBE0024424C /* Build configuration list for PBXNativeTarget "white house petition" */ = {
+		C4FBE5DF1F12FFBE0024424C /* Build configuration list for PBXNativeTarget "whiteHousePetition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4FBE5E01F12FFBE0024424C /* Debug */,
